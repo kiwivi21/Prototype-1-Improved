@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Fork/Prototype-1-Improved/Prototype1Improved/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Fork/Prototype-1-Improved/Prototype1Improved/Content/Blueprints/Grapple/BP_Grapple.uasset",
+				"D:/Fork/Prototype-1-Improved/Prototype1Improved/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/Sphere.uasset",
+				"D:/Fork/Prototype-1-Improved/Prototype1Improved/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"D:/Fork/Prototype-1-Improved/Prototype1Improved/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"D:/Fork/Prototype-1-Improved/Prototype1Improved/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset"
+			]
+		}
+	]
+}
