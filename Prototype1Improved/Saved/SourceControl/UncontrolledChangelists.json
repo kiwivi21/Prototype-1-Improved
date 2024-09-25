@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/NewMaterial.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/PixelPostProcess.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/MAT_BasicBrick.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RF/444VTFZTRUM132TA2HZ09D.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/Textures/Proto1Improved_basecolor.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/Textures/Proto1Improved_normal.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/Textures/Proto1Improved_roughness.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/Textures/TextureTest.uasset",
+				"C:/Users/OEM/Documents/Prototype Games/Improvement 1/Prototype-1-Improved/Prototype1Improved/Content/Assets/Materials/INST_BasicBrick.uasset"
+			]
+		}
+	]
+}
